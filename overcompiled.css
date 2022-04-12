@@ -1,0 +1,121 @@
+body{
+    background-color: rgb(38, 151, 185);
+}
+
+#id-general{
+    width:  800px;
+    height: 800px;
+    margin: auto;
+}
+
+#id1{
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+#p1{
+    margin-right: 537px;
+    font-weight: bold;
+}
+
+#p2{
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+#p3{
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+#p4{
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+#p5{
+    font-weight: bold;
+    
+}
+
+#p6{
+    padding-left: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+#p7{
+    padding-left: 50px;
+    font-weight: bold;
+    
+}
+
+#p8{
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+#p9{
+    padding-left: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+#p10{
+    padding-left: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+#p11{
+    padding-left: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+#span1{
+    margin-left: 355px;
+    font-weight: normal;
+}
+
+#span2{
+    margin-left: 291px;
+    font-weight: normal;
+}
+
+#span3{
+
+    margin-left: 250px;
+    font-weight: normal;
+}
+
+#span4{
+ 
+    margin-left: 350px;
+    font-weight: normal;
+}
+
+#span5{
+
+    margin-left: 440px;
+    font-weight: normal;
+}
+
+#span6{
+
+    margin-left: 300px;
+    font-weight: normal;
+}
+
+.footer{
+    border-top: 1px solid black;
+}
+
+#id2{
+    margin-bottom: 400px;
+}
